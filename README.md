@@ -1,7 +1,7 @@
 <h1>Oie!!! Eu sou a Viviane. Bem vindo ao meu Git <3</h1>
 <div align="center">
   <a href="https://github.com/vivianeaalmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianeaalmeida&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianeaalmeida&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
