@@ -1,4 +1,5 @@
-<h1>Oie! Eu sou a Viviane. Sejam bem vindos ao meu git <3</h1>
+<h1>Oie! Eu sou a Viviane =)</h1>
+  <h2> Bem-vindos ao meu Git <3 </h2>
 <div align="center">
   <a href="https://github.com/vivianeaalmeida">
 
