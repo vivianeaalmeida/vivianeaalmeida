@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Software Engineering at PUC Minas
 
-- 🌱 I’m currently learning **Javascript, React JS**
+- 🌱 I’m currently learning **Javascript, Typescript and Angular**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viviane-andrade-de-almeida/)
 
