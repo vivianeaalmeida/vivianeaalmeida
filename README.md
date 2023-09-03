@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Viviane</h2>
-<h3 align="center">A student of Software Development. From Brazil, living in Portugal.</h3>
 
 - 🔭 I’m currently studying Software Engineering at PUC Minas
 
