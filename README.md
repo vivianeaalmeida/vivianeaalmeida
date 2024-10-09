@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <p style="margin: 10px 0;">- 🔭 I’m currently studying Software Engineering at PUC Minas</p>
-  <p style="margin: 10px 0;">- 🌱 I’m currently learning <strong>Javascript, Typescript and Angular</strong></p>
+  <p style="margin: 10px 0;">- 🌱 I’m currently learning <strong>Java, .NET</strong></p>
   <p style="margin: 10px 0;">- 📫 How to reach me: <a href="https://www.linkedin.com/in/viviane-andrade-de-almeida/">LinkedIn</a></p>
 </div>
 
